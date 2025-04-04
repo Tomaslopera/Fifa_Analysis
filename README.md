@@ -1,6 +1,6 @@
 # Fifa Data Analysis
 
-Este proyecto tiene como objetivo realizar un análisis comparativo de datos de FIFA de los años 2021, 2023 y 2024, enfocado en tres categorías clave: **jugadores**, **equipos** y **técnicos**. Utilizando herramientas de análisis de datos y visualización, buscamos explorar las tendencias, comparativas y estadísticas más relevantes entre estos años.
+Este proyecto tiene como objetivo realizar un análisis comparativo de datos de FIFA de los años 2021, 2023 y 2024, enfocado en tres categorías clave: **jugadores**, **equipos** y **técnicos**. Utilizando herramientas de análisis de datos y visualización, busco explorar las tendencias, comparativas y estadísticas más relevantes entre estos años.
 
 ## Estructura del Proyecto
 
