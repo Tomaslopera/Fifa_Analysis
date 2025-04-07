@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo realizar un análisis comparativo de datos de 
 
 La carpeta `Datasets/` contiene los archivos CSV utilizados para el análisis. El proyecto está organizado por año, con subcarpetas para cada uno:
 
-- `2021`: Datos sin procesar. Es necesario realizar una limpieza previa antes de cualquier análisis.
+- `2021`: Datos sin procesar. Se realizó un preprocesamiento de datos aplicando técnicas como cambio de formatos, eliminación de columnas, renombramiento de columnas, modificación de strings e identificación de nulos. Posteriormente se realizó un análisis mediante gráficas enfocado mayormente a Valores, Altura y Peso con los datos ya limpios, debido a que en los datos de 2024 ya se analizaron los atributos y es repetitivo.
 - `2023`: Datos parcialmente organizados.
 - `2024`: Datos estructurados y listos para análisis y visualización. Se realizó un análisis descriptivo y visual de los datos para obtener variantes con respecto a los 30 mejores jugadores en cada posición (delanteros, mediocampistas, defensas y arqueros). Se analizaron sus habilidades por individual para poder resaltar cuales son los mejores futbolistas no solo a partir de su Overall, sino de sus atributos y lograr identificar en que destaca cada uno de ellos para que un jugador pueda determinar a partir de sus necesidades cual es el mejor futbolista.
 
