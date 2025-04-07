@@ -8,7 +8,7 @@ La carpeta `Datasets/` contiene los archivos CSV utilizados para el análisis. E
 
 - `2021`: Datos sin procesar. Es necesario realizar una limpieza previa antes de cualquier análisis.
 - `2023`: Datos parcialmente organizados.
-- `2024`: Datos estructurados y listos para análisis y visualización.
+- `2024`: Datos estructurados y listos para análisis y visualización. Se realizó un análisis descriptivo y visual de los datos para obtener variantes con respecto a los 30 mejores jugadores en cada posición (delanteros, mediocampistas, defensas y arqueros). Se analizaron sus habilidades por individual para poder resaltar cuales son los mejores futbolistas no solo a partir de su Overall, sino de sus atributos y lograr identificar en que destaca cada uno de ellos para que un jugador pueda determinar a partir de sus necesidades cual es el mejor futbolista.
 
 > **Git Large File Storage (LFS)** ha sido implementado para gestionar los archivos CSV de gran tamaño. Asegúrate de tener Git LFS instalado para clonar correctamente este repositorio.
 
@@ -17,12 +17,6 @@ La carpeta `Datasets/` contiene los archivos CSV utilizados para el análisis. E
 - Python (pandas, matplotlib, seaborn, etc.)
 - Git & Git LFS
 - Jupyter Notebooks (para análisis exploratorio)
-
-## Enfoque Inicial
-
-- Análisis descriptivo y visual de los datos del 2024, por ser los más organizados.
-- Limpieza y preparación de los datos del 2021 y 2023 para análisis posterior.
-- Comparativas entre años sobre rendimiento de jugadores, distribución por nacionalidad, media de atributos, técnicos más representativos, entre otros.
 
 ## Notas
 
