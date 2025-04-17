@@ -12,6 +12,8 @@ La carpeta `Datasets/` contiene los archivos CSV utilizados para el análisis. E
 
 > **Git Large File Storage (LFS)** ha sido implementado para gestionar los archivos CSV de gran tamaño. Asegúrate de tener Git LFS instalado para clonar correctamente este repositorio.
 
+> **Dashboards** se realizó la exportación de archivos de tipo CSV para posteriormente desarrollar dashboards interactivos mediante `PowerBI`
+
 ## Tecnologías y Herramientas
 
 - Python (pandas, matplotlib, seaborn, etc.)
